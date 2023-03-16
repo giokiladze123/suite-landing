@@ -185,7 +185,7 @@ footer{
 }
 
 .works{
-  margin-top:37px;
+  margin-top:-170px;
   font-family: 'Epilogue';
   font-style: normal;
   font-weight: 400;
@@ -232,6 +232,7 @@ footer{
 }
 
 .pattern2{
+  margin-top:40px;
   margin-bottom:200px;
   width:50px;
   height:40px;
@@ -336,6 +337,14 @@ footer{
     margin-top:80px;
   }
 
+  .text-conteiner{
+    margin-top:-170px;
+  }
+
+  .works{
+    margin:0;
+  }
+
   .pattern{
     width:231px;
     height:25px;
@@ -404,6 +413,8 @@ footer{
     margin-top:493px;
     height:640px;
   }
+
+
 
 }
 
@@ -512,6 +523,7 @@ footer{
   }
 
   .text-conteiner{
+    margin-bottom:-70px;
     margin-left:52px;
   }
 
